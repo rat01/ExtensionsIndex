@@ -12,7 +12,7 @@ Thank you for contributing to 3D Slicer!
 - [ ] Repository name is Slicer+ExtensionName
 - [ ] Repository is associated with `3d-slicer-extension` GitHub topic so that it is listed [here](https://github.com/topics/3d-slicer-extension). To edit topics, click "Manage topics" on your repository's main page, on the left, near the top (just below the repository description). To learn more about topics, read https://help.github.com/en/articles/about-topics
 - [ ] Extension description summarizes in 1-2 sentences what the extension is usable (should be understandable for non-experts)
-- [ ] Extension URL and revision (scmurl, scmrevision) is correct, consider using a branch name (master, release, ...) instead of a specific git has to avoid re-submitting pull request whenever the extension is updated
+- [ ] Extension URL and revision (scmurl, scmrevision) is correct, consider using a branch name (master, release, ...) instead of a specific git hash to avoid re-submitting pull request whenever the extension is updated
 - [ ] Extension icon URL is correct
 - [ ] Screenshot URLs (screenshoturls) are correct, contains at least one
 - [ ] Homepage URL points to valid webpage containing the following:
